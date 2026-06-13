@@ -1,0 +1,24 @@
+artifact_path: file:C:/Users/MADHU PRIYA/OneDrive/Desktop/Madhu/BMSCE/Mtech 2nd Semester/DevOps/MLOPS
+  assignment/MLOps-Lab-Manual/Exercise-02/mlruns/224746623033586201/models/m-408c564ce0374eff8169ac2ab7bc2bdd/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.14.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.13.0
+model_id: m-408c564ce0374eff8169ac2ab7bc2bdd
+model_size_bytes: 657
+model_uuid: m-408c564ce0374eff8169ac2ab7bc2bdd
+prompts: null
+run_id: 3e1716bc0a4748c48b2f2ae5dffb030e
+utc_time_created: '2026-06-13 10:35:30.885945'

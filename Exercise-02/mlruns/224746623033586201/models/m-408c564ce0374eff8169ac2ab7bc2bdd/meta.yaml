@@ -1,0 +1,11 @@
+artifact_location: file:C:/Users/MADHU PRIYA/OneDrive/Desktop/Madhu/BMSCE/Mtech 2nd
+  Semester/DevOps/MLOPS assignment/MLOps-Lab-Manual/Exercise-02/mlruns/224746623033586201/models/m-408c564ce0374eff8169ac2ab7bc2bdd/artifacts
+creation_timestamp: 1781346930827
+experiment_id: '224746623033586201'
+last_updated_timestamp: 1781346938676
+model_id: m-408c564ce0374eff8169ac2ab7bc2bdd
+model_type: null
+name: model
+source_run_id: 3e1716bc0a4748c48b2f2ae5dffb030e
+status: 2
+status_message: null
