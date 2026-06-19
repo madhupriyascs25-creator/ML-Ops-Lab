@@ -1,0 +1,12 @@
+venv/
+venv311/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# MLflow temporary files
+mlruns/.trash/
+
+# VS Code
+.vscode/
+mlruns/
