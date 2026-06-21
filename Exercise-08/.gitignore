@@ -1,0 +1,20 @@
+# Virtual environments
+venv/
+venv311/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# MLflow runs
+mlruns/
+
+# Logs
+logs/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
